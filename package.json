@@ -1,5 +1,5 @@
 {
-  "name": "react-example",
+  "name": "giphy-react",
   "version": "1.0.0",
   "description": "",
   "main": "public/index.html",
@@ -9,7 +9,7 @@
     "browser": "browser-sync start --browser \"google chrome\" --server --ss public --files public/*",
     "watch": "webpack -w"
   },
-  "author": "Ahmed Haque",
+  "author": "Dwit",
   "license": "ISC",
   "dependencies": {
     "react": "^0.14.3",
